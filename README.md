@@ -13,7 +13,9 @@
 <br>
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Fredagsguf.png" alt="Your Image Badge" />
+  <a href="https://tryhackme.com/r/p/Fredagsguf" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Fredagsguf.png" alt="Your Image Badge" />
+  </a>
 </p>
 
 <br>
