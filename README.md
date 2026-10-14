@@ -1,7 +1,5 @@
 ![Fredagsguf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fredagsguf&count_private=true&show_icons=true&theme=transparent&hide_border=true&number_format=long) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredagsguf&theme=transparent&hide_border=true&layout=compact)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Fredagsguf&theme=onedark&column=-1)
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fredagsguf&theme=transparent" />
 </p>
